@@ -1,6 +1,6 @@
 ### Report
 
-Our report of deteail technique is below:
+Our report of detail technique is below:
 
 [Report](Report.pdf)
 
